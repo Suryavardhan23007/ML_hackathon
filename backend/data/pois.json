@@ -1,0 +1,742 @@
+[
+  {
+    "id": 1,
+    "name": "Bangalore Palace",
+    "lat": 12.9988,
+    "lon": 77.5921,
+    "short_text": "Royal palace with Tudor and Scottish Gothic architecture.",
+    "long_text": "An exemplary of royal exuberance, Bangalore Palace was built in 1878. The palace's architecture is a mix of Tudor and Scottish Gothic styles with fortified towers, arches, and green lawns.",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/88/Bangalore_Palace_as_seen_from_the_gardens.jpg/400px-Bangalore_Palace_as_seen_from_the_gardens.jpg",
+    "audio_text": "You are near Bangalore Palace, a royal residence built in 1878. It's known for its unique blend of Tudor and Scottish Gothic architecture."
+  },
+  {
+    "id": 2,
+    "name": "Vidhana Soudha",
+    "lat": 12.9797,
+    "lon": 77.5907,
+    "short_text": "The seat of Karnataka's state legislature, known for its imposing Neo-Dravidian architecture.",
+    "long_text": "The Vidhana Soudha is the seat of the state legislature of Karnataka. It is an imposing building, constructed in a style sometimes described as Mysore Neo-Dravidian, and incorporates elements of Indo-Saracenic and Dravidian styles. The construction was completed in 1956.",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6f/Vidhana_Soudha_Bengaluru_2.jpg/400px-Vidhana_Soudha_Bengaluru_2.jpg",
+    "audio_text": "You are looking at Vidhana Soudha, the state legislative building of Karnataka. It was completed in 1956 and is a prime example of Neo-Dravidian architecture."
+  },
+  {
+    "id": 3,
+    "name": "Lalbagh Botanical Garden",
+    "lat": 12.9507,
+    "lon": 77.5848,
+    "short_text": "Historic garden from 1760, famous for its glass house and annual flower shows.",
+    "long_text": "A renowned centre for botanical artwork and conservation, Lalbagh was commissioned by Hyder Ali in 1760. It is famous for its glass house which hosts two annual flower shows and houses a rare collection of tropical plants.",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Lalbagh_Glass_house.jpg/400px-Lalbagh_Glass_house.jpg",
+    "audio_text": "This is the Lalbagh Botanical Garden, started in 1760. It is famous for its large glass house and a vast collection of tropical plants."
+  },
+  {
+    "id": 4,
+    "name": "Tipu Sultan's Summer Palace",
+    "lat": 12.9593,
+    "lon": 77.5735,
+    "short_text": "The summer residence of Tipu Sultan, built with teakwood in the Indo-Islamic style.",
+    "long_text": "Located inside the Bangalore Fort, this palace was the summer residence of the Mysorean ruler Tipu Sultan. Its structure is made mostly of teakwood and is a great example of Indo-Islamic architecture.",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7b/Tipu_Sultan%27s_Summer_Palace%2C_Bangalore.jpg/400px-Tipu_Sultan%27s_Summer_Palace%2C_Bangalore.jpg",
+    "audio_text": "You are at Tipu Sultan's Summer Palace. This beautiful teakwood structure was the ruler's summer retreat and showcases Indo-Islamic design."
+  },
+  {
+    "id": 5,
+    "name": "Cubbon Park",
+    "lat": 12.9757,
+    "lon": 77.5929,
+    "short_text": "A major landmark and green lung in the heart of the city, home to over 6,000 trees.",
+    "long_text": "A major landmark, Cubbon Park is a green lung in the heart of the city. It is home to more than 6,000 trees and houses the State Central Library, an aquarium, and the Bal Bhavan.",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c5/Cubbon_Park_Entrance.jpg/400px-Cubbon_Park_Entrance.jpg",
+    "audio_text": "You have arrived at Cubbon Park, a vast green space in the city center. It's a perfect place for a walk among thousands of trees."
+  },
+  {
+    "id": 6,
+    "name": "ISKCON Temple Bangalore",
+    "lat": 13.0098,
+    "lon": 77.5511,
+    "short_text": "One of the largest ISKCON temples in the world, dedicated to Radha and Krishna.",
+    "long_text": "One of the largest ISKCON temples in the world, this cultural complex is dedicated to Radha and Krishna. It is known for its stunning blend of modern technology and spiritual harmony.",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/ISKCON_Temple_Bangalore_-_Main_Temple.jpg/400px-ISKCON_Temple_Bangalore_-_Main_Temple.jpg",
+    "audio_text": "This is the ISKCON Temple in Bangalore, one of the largest of its kind. It is a modern architectural marvel dedicated to Radha and Krishna."
+  },
+  {
+    "id": 7,
+    "name": "Bull Temple (Dodda Basavana Gudi)",
+    "lat": 12.9424,
+    "lon": 77.5714,
+    "short_text": "Famous for its huge monolith statue of the sacred bull, Nandi, carved from a single rock.",
+    "long_text": "Located in Basavanagudi, this temple is famous for its huge monolith statue of the sacred bull Nandi. The statue is said to have been carved out of a single piece of rock.",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/23/Bull_Temple_Bangalore_Sept_2007.JPG/400px-Bull_Temple_Bangalore_Sept_2007.JPG",
+    "audio_text": "You are now at the Bull Temple. Its main attraction is the massive statue of Nandi the bull, which was carved from a single stone."
+  },
+  {
+    "id": 8,
+    "name": "Visvesvaraya Industrial & Technological Museum",
+    "lat": 12.9758,
+    "lon": 77.5969,
+    "short_text": "A popular science museum with interactive exhibits on engines and scientific principles.",
+    "long_text": "Located near Cubbon Park, this museum is a tribute to the father of modern Karnataka, Sir M. Visvesvaraya. It houses various scientific experiments and engines, making science fun and interactive.",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Visvesvaraya_Industrial_and_Technological_Museum_2.JPG/400px-Visvesvaraya_Industrial_and_Technological_Museum_2.JPG",
+    "audio_text": "This is the Visvesvaraya Museum, a fantastic place for science lovers. It features many hands-on exhibits that explain scientific concepts."
+  },
+  {
+    "id": 9,
+    "name": "Attara Kacheri (High Court)",
+    "lat": 12.9790,
+    "lon": 77.5913,
+    "short_text": "The striking red brick building that houses the High Court of Karnataka.",
+    "long_text": "This striking red brick building, located opposite Vidhana Soudha, houses the High Court of Karnataka. Built in 1868, its name literally means 'eighteen offices' or departments.",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/84/High_Court_of_Karnataka.jpg/400px-High_Court_of_Karnataka.jpg",
+    "audio_text": "In front of you is the Attara Kacheri, a beautiful red building that serves as the High Court of Karnataka. It stands directly opposite the Vidhana Soudha."
+  },
+  {
+    "id": 10,
+    "name": "St. Mary's Basilica",
+    "lat": 12.9860,
+    "lon": 77.6053,
+    "short_text": "The oldest church in Bangalore, built in the Gothic style and famous for its annual feast.",
+    "long_text": "The oldest church in Bangalore, St. Mary's Basilica is a prominent landmark in the Shivaji Nagar area. It is famous for the St. Mary's Feast, held every September, which attracts thousands of devotees.",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8d/St._Mary%27s_Basilica%2C_Bangalore.jpg/400px-St._Mary%27s_Basilica%2C_Bangalore.jpg",
+    "audio_text": "You are at St. Mary's Basilica, the oldest church in Bangalore. It is known for its beautiful Gothic architecture and the grand St. Mary's Feast held in September."
+  },
+  {
+    "id": 11,
+    "name": "National Gallery of Modern Art",
+    "lat": 12.9928,
+    "lon": 77.5898,
+    "short_text": "Showcases Indian art from the 18th century to the present day in a historic mansion.",
+    "long_text": "Housed in the historic Manikyavelu Mansion, this gallery showcases Indian art starting from the early 18th century to the present day. It's a must-visit for art lovers.",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d4/National_Gallery_of_Modern_Art%2C_Bengaluru.JPG/400px-National_Gallery_of_Modern_Art%2C_Bengaluru.JPG",
+    "audio_text": "Welcome to the National Gallery of Modern Art. Inside this historic mansion, you'll find a vast collection of Indian art spanning several centuries."
+  },
+  {
+    "id": 12,
+    "name": "Bangalore Fort",
+    "lat": 12.9600,
+    "lon": 77.5750,
+    "short_text": "Originally a mud fort from 1537, with only parts like the Delhi Gate remaining today.",
+    "long_text": "Originally a mud fort built by Kempe Gowda I in 1537, it was later converted into a stone fort by Hyder Ali. Today, only parts of it, like the well-preserved Delhi Gate, remain.",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5a/Bangalore_Fort_-_Delhi_Gate.jpg/400px-Bangalore_Fort_-_Delhi_Gate.jpg",
+    "audio_text": "This is a remnant of the historic Bangalore Fort. Originally built in 1537, the impressive Delhi Gate is one of the few parts still standing."
+  },
+  {
+    "id": 13,
+    "name": "Gavi Gangadhareshwara Temple",
+    "lat": 12.9449,
+    "lon": 77.5647,
+    "short_text": "A unique rock-cut temple where sunlight illuminates the deity on Makar Sankranti.",
+    "long_text": "An example of Indian rock-cut architecture, this temple is famous for a unique phenomenon where on Makar Sankranti, sunlight passes through an arch and illuminates the deity inside.",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7b/Gavi_Gangadhareshwara_Temple.jpg/400px-Gavi_Gangadhareshwara_Temple.jpg",
+    "audio_text": "You are at the Gavi Gangadhareshwara Temple, a fascinating cave temple. It is famous for a special event in January when the sun's rays directly light up the idol."
+  },
+  {
+    "id": 14,
+    "name": "HAL Heritage Centre and Aerospace Museum",
+    "lat": 12.9563,
+    "lon": 77.6833,
+    "short_text": "India's first aerospace museum, showcasing the history of Indian aviation.",
+    "long_text": "India's first aerospace museum, it showcases the growth of the Indian aviation industry and Hindustan Aeronautics Limited for over six decades. You can see various aircraft and helicopters here.",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/52/HAL_Heritage_Centre_and_Aerospace_Museum_-_Bangalore_India.jpg/400px-HAL_Heritage_Centre_and_Aerospace_Museum_-_Bangalore_India.jpg",
+    "audio_text": "This is the HAL Aerospace Museum, the first of its kind in India. It chronicles the journey of Indian aviation with impressive exhibits of planes and helicopters."
+  },
+  {
+    "id": 15,
+    "name": "Jawaharlal Nehru Planetarium",
+    "lat": 12.9863,
+    "lon": 77.5892,
+    "short_text": "A popular attraction for science enthusiasts with shows about the universe.",
+    "long_text": "A popular attraction for science enthusiasts, this planetarium hosts fascinating shows about the wonders of the universe, making astronomy accessible and exciting for all ages.",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/73/Bangalore_Planetarium.JPG/400px-Bangalore_Planetarium.JPG",
+    "audio_text": "You are near the Jawaharlal Nehru Planetarium. It offers amazing sky-theatre shows that take you on a journey through the cosmos."
+  },
+  {
+    "id": 16,
+    "name": "Ulsoor Lake",
+    "lat": 12.9800,
+    "lon": 77.6186,
+    "short_text": "One of the largest lakes in Bangalore, a popular spot for boating and recreation.",
+    "long_text": "One of the largest lakes in Bangalore, it's a popular spot for boating and recreation, located in the eastern part of the city. It has several small islands within it.",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/ba/Ulsoor_Lake_from_a_boat_IMG_3332.jpg/400px-Ulsoor_Lake_from_a_boat_IMG_3332.jpg",
+    "audio_text": "This is Ulsoor Lake, one of the biggest lakes in the city. It's a great spot to relax or enjoy a boat ride."
+  },
+  {
+    "id": 17,
+    "name": "Karnataka Chitrakala Parishath",
+    "lat": 12.9912,
+    "lon": 77.5794,
+    "short_text": "A renowned visual art complex with art galleries and a museum.",
+    "long_text": "A renowned visual art complex that features a college of fine arts, art galleries, and a museum showcasing a rich collection of traditional and modern Indian art.",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8e/Chitrakala_Parishat_Art_Complex.JPG/400px-Chitrakala_Parishat_Art_Complex.JPG",
+    "audio_text": "You have arrived at Karnataka Chitrakala Parishath, a major center for visual arts. It hosts numerous art exhibitions and has a wonderful permanent collection."
+  },
+  {
+    "id": 18,
+    "name": "M. Chinnaswamy Stadium",
+    "lat": 12.9786,
+    "lon": 77.5994,
+    "short_text": "A world-famous cricket stadium, home to the Royal Challengers Bangalore.",
+    "long_text": "A world-famous cricket stadium, home to the Karnataka state cricket team and the Royal Challengers Bangalore IPL franchise. It is located in the heart of the city.",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/M._Chinnaswamy_Stadium_during_a_match.jpg/400px-M._Chinnaswamy_Stadium_during_a_match.jpg",
+    "audio_text": "This is the M. Chinnaswamy Stadium, a celebrated cricket ground. It's the home stadium for the city's popular IPL team, Royal Challengers Bangalore."
+  },
+  {
+    "id": 19,
+    "name": "Indira Gandhi Musical Fountain Park",
+    "lat": 12.9878,
+    "lon": 77.5878,
+    "short_text": "Features spectacular synchronized water fountain shows set to music.",
+    "long_text": "Located near the Planetarium, this park features spectacular synchronized water fountain shows set to music. It is one of the most technically advanced musical fountains in India.",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/41/Indira_Gandhi_Musical_Fountain_Park.jpg/400px-Indira_Gandhi_Musical_Fountain_Park.jpg",
+    "audio_text": "This is the Indira Gandhi Musical Fountain Park. In the evenings, you can watch a beautiful show where fountains dance to the rhythm of music."
+  },
+  {
+    "id": 20,
+    "name": "Freedom Park",
+    "lat": 12.9806,
+    "lon": 77.5815,
+    "short_text": "Formerly a Central Jail, now a public park and popular venue for gatherings.",
+    "long_text": "Formerly the Central Jail, this space has been converted into a public park and is a popular venue for protests and public gatherings. It represents the city's spirit of expression.",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ef/Freedom_Park%2C_Bengaluru_01.jpg/400px-Freedom_Park%2C_Bengaluru_01.jpg",
+    "audio_text": "You are at Freedom Park, a location with a unique history. This area used to be the Central Jail and is now a public space symbolizing liberty."
+  },
+  {
+    "id": 21,
+    "name": "Seshadri Iyer Memorial Hall (State Central Library)",
+    "lat": 12.9765,
+    "lon": 77.5925,
+    "short_text": "An iconic red building in Cubbon Park housing the State Central Library.",
+    "long_text": "Located in Cubbon Park, this iconic red building houses the State Central Library, which has an extensive collection of books and is a haven for readers.",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/State_Central_Library_Bangalore.jpg/400px-State_Central_Library_Bangalore.jpg",
+    "audio_text": "This impressive red building is the Seshadri Iyer Memorial Hall, which houses the State Central Library. It's a treasure trove of books inside Cubbon Park."
+  },
+  {
+    "id": 22,
+    "name": "Bangalore Town Hall",
+    "lat": 12.9649,
+    "lon": 77.5804,
+    "short_text": "A classic stone building with a Greco-Roman architectural style.",
+    "long_text": "A classic stone building with a Greco-Roman architectural style, the Sir K. P. Puttanna Chetty Town Hall is a major venue for cultural events, plays, and concerts.",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/37/Sir_K._P._Puttanna_Chetty_Town_Hall_01.jpg/400px-Sir_K._P._Puttanna_Chetty_Town_Hall_01.jpg",
+    "audio_text": "You are now at the Bangalore Town Hall. This elegant stone building is a key center for the city's cultural events and performances."
+  },
+  {
+    "id": 23,
+    "name": "Dodda Ganesha Temple",
+    "lat": 12.9422,
+    "lon": 77.5714,
+    "short_text": "Features a massive monolith statue of Lord Ganesha.",
+    "long_text": "Located right next to the Bull Temple, this temple features a massive monolith statue of Lord Ganesha, which is about 18 feet high and 16 feet wide.",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6d/Dodda_Ganesha_Temple.jpg/400px-Dodda_Ganesha_Temple.jpg",
+    "audio_text": "This is the Dodda Ganesha Temple, located right beside the Bull Temple. It's famous for its huge idol of Lord Ganesha, carved from a single large rock."
+  },
+  {
+    "id": 24,
+    "name": "Sankey Tank",
+    "lat": 13.0069,
+    "lon": 77.5715,
+    "short_text": "A man-made lake with a park and jogging track, popular for morning walks.",
+    "long_text": "A man-made lake with a park and jogging track, popular for morning walks and recreational activities. It was constructed to meet the water supply demands of the city.",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Sankey_Tank_Park%2C_Bangalore.jpg/400px-Sankey_Tank_Park%2C_Bangalore.jpg",
+    "audio_text": "This is Sankey Tank, a beautiful man-made lake. It's a favorite spot for locals to go for a walk or jog amidst nature."
+  },
+  {
+    "id": 25,
+    "name": "Devanahalli Fort",
+    "lat": 13.2351,
+    "lon": 77.7019,
+    "short_text": "Historic fort near the airport, and the birthplace of Tipu Sultan.",
+    "long_text": "Located near the Kempegowda International Airport, this historic fort is the birthplace of Tipu Sultan. The fort is a fine example of 18th-century military architecture.",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d3/Devanahalli_fort_entrance.jpg/400px-Devanahalli_fort_entrance.jpg",
+    "audio_text": "You are at Devanahalli Fort, a place of great historical importance. This is the birthplace of the famous ruler, Tipu Sultan."
+  },
+  {
+    "id": 26,
+    "name": "Bannerghatta Biological Park",
+    "lat": 12.8014,
+    "lon": 77.5779,
+    "short_text": "A popular destination with a zoo, safari park, and butterfly enclosure.",
+    "long_text": "A popular tourist destination with a zoo, a pet corner, an animal rescue centre, a butterfly enclosure, and a safari park where you can see animals in their natural habitat.",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9f/Bannerghatta_National_Park_Gate.jpg/400px-Bannerghatta_National_Park_Gate.jpg",
+    "audio_text": "Welcome to Bannerghatta Biological Park. Here you can visit a zoo, see beautiful butterflies, and even go on a safari to see tigers and lions."
+  },
+  {
+    "id": 27,
+    "name": "Art of Living International Center",
+    "lat": 12.8194,
+    "lon": 77.5088,
+    "short_text": "Headquarters of the Art of Living foundation, featuring the beautiful Vishalakshi Mantap.",
+    "long_text": "Located on Kanakapura Road, this is the headquarters of the Art of Living foundation, featuring the beautiful Vishalakshi Mantap, an architectural marvel and meditation hall.",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f8/The_Art_of_Living_International_Center_Bengaluru_Ashram.jpg/400px-The_Art_of_Living_International_Center_Bengaluru_Ashram.jpg",
+    "audio_text": "This is the Art of Living International Center. It is a peaceful ashram and the headquarters of the Art of Living foundation, known for its serene atmosphere."
+  },
+  {
+    "id": 28,
+    "name": "Pyramid Valley International",
+    "lat": 12.7214,
+    "lon": 77.5647,
+    "short_text": "Home to the world's largest meditational pyramid.",
+    "long_text": "Home to the world's largest meditational pyramid, it is a center for spiritual wisdom and meditation, attracting people from all over the world.",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c5/Pyramid_Valley%2C_Bangalore.jpg/400px-Pyramid_Valley%2C_Bangalore.jpg",
+    "audio_text": "You are near Pyramid Valley, which houses the world's largest pyramid built solely for meditation. It's a unique place for peace and spiritual exploration."
+  },
+  {
+    "id": 29,
+    "name": "Ragigudda Sri Prasanna Anjaneyaswamy Temple",
+    "lat": 12.9174,
+    "lon": 77.5999,
+    "short_text": "A temple on a hillock dedicated to Lord Hanuman, offering a panoramic city view.",
+    "long_text": "Situated on a hillock in Jayanagar, this temple is dedicated to Lord Hanuman and offers a panoramic view of the city. The temple complex is serene and expansive.",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a2/Ragigudda_temple_entrance.jpg/400px-Ragigudda_temple_entrance.jpg",
+    "audio_text": "You're at the Ragigudda Anjaneya Temple. Located on a small hill, this temple dedicated to Hanuman offers a beautiful view of the surroundings."
+  },
+  {
+    "id": 30,
+    "name": "Bangalore Turf Club",
+    "lat": 12.9818,
+    "lon": 77.5768,
+    "short_text": "A historic horse racing course that hosts races during summer and winter.",
+    "long_text": "A historic horse racing course located near the Race Course Road, hosting races during the summer and winter seasons. It's a hub for equestrian enthusiasts.",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Bangalore_Race_Course_1.JPG/400px-Bangalore_Race_Course_1.JPG",
+    "audio_text": "This is the Bangalore Turf Club, the city's premier horse racing track. It's a historic venue that comes alive during the racing season."
+  },
+  {
+    "id": 31,
+    "name": "Government Museum",
+    "lat": 12.9754,
+    "lon": 77.5982,
+    "short_text": "One of India's oldest museums with rare archaeological and geological artifacts.",
+    "long_text": "One of the oldest museums in India, it has a rare collection of archaeological and geological artifacts, including ancient coins, pottery, and inscriptions.",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/Government_Museum%2C_Bangalore%2C_India.jpg/400px-Government_Museum%2C_Bangalore%2C_India.jpg",
+    "audio_text": "You are at the Government Museum, one of the oldest in India. It houses a fascinating collection of historical artifacts that tell the story of this region."
+  },
+  {
+    "id": 32,
+    "name": "Nandi Hills",
+    "lat": 13.3702,
+    "lon": 77.6835,
+    "short_text": "An ancient hill fortress and popular spot for watching sunrises.",
+    "long_text": "An ancient hill fortress and a popular tourist spot for watching sunrises, located about 60 km from Bangalore. It offers breathtaking views and pleasant weather.",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b3/Nandi_Hills_View_Point.jpg/400px-Nandi_Hills_View_Point.jpg",
+    "audio_text": "You're looking towards Nandi Hills, a famous hilltop fortress outside Bangalore. It's a perfect getaway to watch a stunning sunrise."
+  },
+  {
+    "id": 33,
+    "name": "Shivoham Shiva Temple",
+    "lat": 12.9592,
+    "lon": 77.6622,
+    "short_text": "Famous for its towering 65-foot tall statue of Lord Shiva.",
+    "long_text": "Located on Old Airport Road, this temple is famous for its towering 65-foot tall statue of Lord Shiva in a meditative pose. It's a major pilgrimage site.",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b5/Lord_Shiva_Statue_at_Kemp_Fort.jpg/400px-Lord_Shiva_Statue_at_Kemp_Fort.jpg",
+    "audio_text": "This is the Shivoham Shiva Temple, known for its magnificent 65-foot-tall statue of Lord Shiva. It is a very popular spiritual destination in the city."
+  },
+  {
+    "id": 34,
+    "name": "Chunchi Falls",
+    "lat": 12.3160,
+    "lon": 77.4475,
+    "short_text": "A scenic waterfall about 90 km from Bangalore, fed by the Arkavathi River.",
+    "long_text": "A scenic waterfall about 90 km from Bangalore, fed by the Arkavathi River. It is a popular weekend getaway for its natural beauty and rocky terrain.",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/91/Chunchi_falls_at_Kanakapura.jpg/400px-Chunchi_falls_at_Kanakapura.jpg",
+    "audio_text": "Nearby is Chunchi Falls, a beautiful waterfall located a couple of hours from Bangalore. It's a great spot for a day trip to enjoy nature."
+  },
+  {
+    "id": 35,
+    "name": "Mekedatu",
+    "lat": 12.2594,
+    "lon": 77.4428,
+    "short_text": "A scenic spot where the Kaveri River flows through a deep, narrow gorge.",
+    "long_text": "A scenic spot where the Kaveri River flows through a deep, narrow gorge. 'Mekedatu' means 'goat's leap' in Kannada, referring to the gorge's narrowness.",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/36/Mekedatu_sangama.JPG/400px-Mekedatu_sangama.JPG",
+    "audio_text": "This area is close to Mekedatu, a stunning gorge on the Kaveri river. The name means 'goat's leap', inspired by how narrow the gorge is."
+  },
+  {
+    "id": 36,
+    "name": "Thottikallu Falls (TK Falls)",
+    "lat": 12.7936,
+    "lon": 77.5332,
+    "short_text": "A beautiful waterfall near Kanakapura Road, also known as Swarna Mukhi falls.",
+    "long_text": "A beautiful waterfall located near Kanakapura Road, also known as Swarna Mukhi falls. It's a serene spot, especially popular during the monsoon season.",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d3/Thottikallu_falls_in_Bangalore.jpg/400px-Thottikallu_falls_in_Bangalore.jpg",
+    "audio_text": "You are near Thottikallu Falls, also known as TK Falls. It's a lovely spot for a quick escape from the city, especially after the rains."
+  },
+  {
+    "id": 37,
+    "name": "Bangalore University",
+    "lat": 12.9463,
+    "lon": 77.5029,
+    "short_text": "One of India's oldest universities, with a sprawling, green campus.",
+    "long_text": "One of the oldest universities in India, with a sprawling campus known for its greenery and unique architecture. Its Jnana Bharathi campus is a landmark in itself.",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/07/Administrative_Block%2C_Jnana_Bharathi_Campus%2C_Bangalore_University.JPG/400px-Administrative_Block%2C_Jnana_Bharathi_Campus%2C_Bangalore_University.JPG",
+    "audio_text": "This is the Bangalore University campus. It's one of the oldest and largest universities in India, known for its vast, green spaces."
+  },
+  {
+    "id": 38,
+    "name": "Indian Institute of Science (IISc)",
+    "lat": 13.0221,
+    "lon": 77.5658,
+    "short_text": "A premier public institution for scientific research and higher education.",
+    "long_text": "A premier public institution for scientific research and higher education, known for its iconic main building and lush campus. It is consistently ranked among the top research institutions globally.",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f7/Indian_Institute_of_Science_Bangalore_Main_Building.JPG/400px-Indian_Institute_of_Science_Bangalore_Main_Building.JPG",
+    "audio_text": "You are at the Indian Institute of Science, or IISc. This is one of the world's leading research institutions, famous for its contributions to science and engineering."
+  },
+  {
+    "id": 39,
+    "name": "National Law School of India University (NLSIU)",
+    "lat": 12.9348,
+    "lon": 77.5057,
+    "short_text": "The top-ranked law school in India, located in Bangalore.",
+    "long_text": "The top-ranked law school in India, known for pioneering the 5-year integrated B.A., LL.B. (Hons.) degree. Its campus is located adjacent to the Bangalore University campus.",
+    "image_url": "https://upload.wikimedia.org/wikipedia/en/thumb/8/87/National_Law_School_of_India_University_logo.png/300px-National_Law_School_of_India_University_logo.png",
+    "audio_text": "This is the National Law School of India University, widely considered the best law school in the country. It has set the standard for legal education in India."
+  },
+  {
+    "id": 40,
+    "name": "Kanteerava Indoor Stadium",
+    "lat": 12.9701,
+    "lon": 77.5936,
+    "short_text": "An indoor sporting arena used for sports like basketball and volleyball.",
+    "long_text": "An indoor sporting arena located in the heart of Bangalore, used for various sports events including basketball and volleyball. It has hosted many national and international events.",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d4/Sree_Kanteerava_Indoor_Stadium.jpg/400px-Sree_Kanteerava_Indoor_Stadium.jpg",
+    "audio_text": "This is the Kanteerava Indoor Stadium. It's a key venue in the city for indoor sports like basketball, and hosts major tournaments."
+  },
+  {
+    "id": 41,
+    "name": "KR Market",
+    "lat": 12.9619,
+    "lon": 77.5753,
+    "short_text": "The largest wholesale market in Bangalore, famous for its vibrant flower market.",
+    "long_text": "Krishna Rajendra Market is the largest wholesale commodity market in Bangalore, famous for its vibrant flower market that operates in the early morning hours. It's a sensory explosion of colors and sounds.",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6b/KR_Market_at_night.jpg/400px-KR_Market_at_night.jpg",
+    "audio_text": "You are at KR Market, the city's largest and most chaotic wholesale market. It's especially famous for its incredible flower market, which is best visited at dawn."
+  },
+  {
+    "id": 42,
+    "name": "Jagannath Temple, Bangalore",
+    "lat": 12.9090,
+    "lon": 77.6358,
+    "short_text": "A beautiful replica of the famous Puri Jagannath Temple.",
+    "long_text": "A beautiful replica of the famous Puri Jagannath Temple, located in Agara, serving as a cultural hub for the Odia community and devotees of Lord Jagannath.",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Jagannath_Temple%2C_Agara%2C_Bangalore.jpg/400px-Jagannath_Temple%2C_Agara%2C_Bangalore.jpg",
+    "audio_text": "This is the Jagannath Temple in Bangalore. It is a faithful replica of the famous temple in Puri and is an important cultural center for the local Odia community."
+  },
+  {
+    "id": 43,
+    "name": "St. Mark's Cathedral",
+    "lat": 12.9744,
+    "lon": 77.6015,
+    "short_text": "A cathedral on M.G. Road known for its beautiful colonial architecture.",
+    "long_text": "Located on M.G. Road, this cathedral is known for its beautiful colonial architecture inspired by St Paul's Cathedral in London. Its serene campus offers a peaceful escape.",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/86/St_Marks_cathedral_bangalore.jpg/400px-St_Marks_cathedral_bangalore.jpg",
+    "audio_text": "You're at St. Mark's Cathedral, an elegant colonial-era church on M.G. Road. Its architecture is inspired by the famous St. Paul's Cathedral in London."
+  },
+  {
+    "id": 44,
+    "name": "Holy Trinity Church",
+    "lat": 12.9710,
+    "lon": 77.6186,
+    "short_text": "A landmark Anglican church at Trinity Circle in the English Renaissance style.",
+    "long_text": "A landmark Anglican church at Trinity Circle, known for its English Renaissance style and considered to be the largest military church in Southern India. It has beautiful stained glass windows.",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c8/Holy_Trinity_Church%2C_Bangalore_2.JPG/400px-Holy_Trinity_Church%2C_Bangalore_2.JPG",
+    "audio_text": "This is Holy Trinity Church, a historic Anglican church. It was once the largest military church in South India and is admired for its beautiful architecture."
+  },
+  {
+    "id": 45,
+    "name": "Kempegowda Tower",
+    "lat": 12.9510,
+    "lon": 77.5842,
+    "short_text": "One of four watchtowers built by Kempe Gowda I to mark the city's boundaries.",
+    "long_text": "One of the four watchtowers built by Kempe Gowda I to mark the boundaries of Bangalore. This one is located on the rock formation in Lalbagh, offering a great view.",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c5/Lal_Bagh_Kempegowda_Tower.jpg/400px-Lal_Bagh_Kempegowda_Tower.jpg",
+    "audio_text": "You are near a Kempegowda Tower, located inside Lalbagh. This is one of four watchtowers that the founder of Bangalore, Kempe Gowda, built to mark the city's limits."
+  },
+  {
+    "id": 46,
+    "name": "Indian Music Experience Museum",
+    "lat": 12.9192,
+    "lon": 77.5936,
+    "short_text": "India's only interactive music museum, showcasing the diversity of Indian music.",
+    "long_text": "India's only interactive music museum, featuring hi-tech exhibits that showcase the diversity of Indian music, from traditional to contemporary. It's an immersive experience for all music lovers.",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Indian_Music_Experience_Museum.jpg/400px-Indian_Music_Experience_Museum.jpg",
+    "audio_text": "This is the Indian Music Experience Museum, the first of its kind in India. It offers a fun, interactive journey through the rich history of Indian music."
+  },
+  {
+    "id": 47,
+    "name": "Gandhi Bhavan",
+    "lat": 12.9892,
+    "lon": 77.5819,
+    "short_text": "A memorial dedicated to Mahatma Gandhi, showcasing his life and teachings.",
+    "long_text": "Gandhi Bhavan is a memorial dedicated to Mahatma Gandhi. It houses a gallery showcasing pictures of his life, a library with his works, and serves as a center for promoting Gandhian values and philosophy.",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/be/Gandhi_Bhavan_Bangalore.jpg/400px-Gandhi_Bhavan_Bangalore.jpg",
+    "audio_text": "This is Gandhi Bhavan, a memorial dedicated to Mahatma Gandhi. Here, you can learn about his incredible life and timeless teachings through pictures and books."
+  },
+  {
+    "id": 48,
+    "name": "Kempegowda Museum",
+    "lat": 12.9649,
+    "lon": 77.5804,
+    "short_text": "A museum on the first floor of Mayo Hall dedicated to the founder of Bangalore.",
+    "long_text": "The Kempegowda Museum is dedicated to Yelahanka chieftain Kempe Gowda, the founder of Bangalore. It is located on the first floor of Mayo Hall and features his statue, as well as historical paintings and artifacts from his time.",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b5/Kempegowda_Museum_Bangalore.jpg/400px-Kempegowda_Museum_Bangalore.jpg",
+    "audio_text": "You are at the Kempegowda Museum, which honors the founder of Bangalore, Kempe Gowda. It provides a glimpse into the city's origins in the 16th century."
+  },
+  {
+    "id": 49,
+    "name": "Sri Someshwara Swamy Temple, Ulsoor",
+    "lat": 12.9791,
+    "lon": 77.6236,
+    "short_text": "One of Bangalore's oldest temples, built during the Chola dynasty.",
+    "long_text": "The Sri Someshwara Swamy Temple in Ulsoor is one of the oldest temples in Bangalore. Built during the Chola dynasty, it is dedicated to Lord Shiva and is a fine example of ancient Dravidian temple architecture.",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/86/Someshwara_temple_at_Ulsoor.jpg/400px-Someshwara_temple_at_Ulsoor.jpg",
+    "audio_text": "This is the Someshwara Temple in Ulsoor, one of the oldest in the city. Its origins trace back to the Chola period, making it a significant historical site."
+  },
+  {
+    "id": 50,
+    "name": "Kadu Malleshwara Temple, Malleshwaram",
+    "lat": 13.0065,
+    "lon": 77.5701,
+    "short_text": "An ancient temple dedicated to Lord Shiva, which gives the Malleshwaram area its name.",
+    "long_text": "The Kadu Malleshwara Temple is an ancient Hindu temple dedicated to Lord Shiva, located in the Malleshwaram locality. It was built in the 17th century in the Dravidian style of architecture. The area 'Malleshwaram' derives its name from this temple.",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/07/Kadu_Malleshwara_Temple.jpg/400px-Kadu_Malleshwara_Temple.jpg",
+    "audio_text": "You're at the Kadu Malleshwara Temple. This historic Shiva temple is so important that the entire neighborhood of Malleshwaram is named after it."
+  },
+  {
+    "id": 51,
+    "name": "Hebbal Lake Park",
+    "lat": 13.0359,
+    "lon": 77.5971,
+    "short_text": "A picturesque lake known for its park and rich birdlife.",
+    "long_text": "Hebbal Lake is a picturesque lake located in the north of Bangalore. It is well-known for its boating facilities, surrounding park, and as a habitat for a large number of migratory birds, making it a paradise for birdwatchers.",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c5/Hebbal_Lake.jpg/400px-Hebbal_Lake.jpg",
+    "audio_text": "This is Hebbal Lake, a beautiful spot in North Bangalore. It's a great place for boating and is famous for the many species of birds you can see here."
+  },
+  {
+    "id": 52,
+    "name": "Madiwala Lake",
+    "lat": 12.9185,
+    "lon": 77.6241,
+    "short_text": "One of the largest lakes in Bangalore, a popular spot for birdwatching.",
+    "long_text": "Madiwala Lake is one of the biggest lakes in Bangalore, spreading over 114 hectares. It is a vital lung space for the city and is home to many species of migratory birds, especially during the winter months.",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8c/Madiwala_lake.JPG/400px-Madiwala_lake.JPG",
+    "audio_text": "You are near Madiwala Lake, one of the largest water bodies in the city. It is an important habitat for many birds, particularly spot-billed pelicans."
+  },
+  {
+    "id": 53,
+    "name": "Savandurga Hill",
+    "lat": 12.9186,
+    "lon": 77.2952,
+    "short_text": "One of the largest monolith hills in Asia, popular for trekking.",
+    "long_text": "Savandurga is a hill located about 60 km west of Bangalore. It is considered to be one of the largest monolith hills in Asia. The hill is famous for trekking and for the temples situated at its foothills.",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3b/Savandurga_monolith.jpg/400px-Savandurga_monolith.jpg",
+    "audio_text": "This is Savandurga hill, one of the largest single rock formations in all of Asia. It is a very popular destination for trekking and rock climbing enthusiasts."
+  },
+  {
+    "id": 54,
+    "name": "Skandagiri Hills",
+    "lat": 13.4158,
+    "lon": 77.6835,
+    "short_text": "A mountain fortress famous for its spectacular sunrise treks.",
+    "long_text": "Skandagiri, also known as Kalavara Durga, is an ancient mountain fortress located about 62 km from Bangalore. It is renowned for its night treks, where trekkers climb up to watch the sunrise from above a sea of clouds.",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/Skandagiri_Sunrise.jpg/400px-Skandagiri_Sunrise.jpg",
+    "audio_text": "You are looking at Skandagiri hills, a famous spot for night trekking. People hike up in the dark to witness a breathtaking sunrise over a carpet of clouds."
+  },
+  {
+    "id": 55,
+    "name": "Nrityagram Dance Village",
+    "lat": 13.1670,
+    "lon": 77.4589,
+    "short_text": "India's first modern Gurukul for Indian classical dances.",
+    "long_text": "Nrityagram is a unique dance village located on the outskirts of Bangalore. It was conceptualized by the famous Odissi dancer Protima Gauri and serves as a community for dancers to live and learn in a guru-shishya parampara.",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/Nrityagram_Entrance.jpg/400px-Nrityagram_Entrance.jpg",
+    "audio_text": "This is Nrityagram, India's first modern 'Gurukul' or residential school for dance. It's a serene place dedicated to the practice of Indian classical dances."
+  },
+  {
+    "id": 56,
+    "name": "Big Banyan Tree (Dodda Alada Mara)",
+    "lat": 12.9130,
+    "lon": 77.4418,
+    "short_text": "A giant 400-year-old banyan tree that covers 3 acres.",
+    "long_text": "The Dodda Alada Mara, or Big Banyan Tree, is a single giant banyan tree located in the village of Kethohalli. It is approximately 400 years old and covers an area of about 3 acres, making it one of the largest of its kind.",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d7/Big_Banyan_Tree_Bangalore.jpg/400px-Big_Banyan_Tree_Bangalore.jpg",
+    "audio_text": "You're near the Big Banyan Tree, a single tree that is 400 years old and has spread over three acres. It's an amazing natural wonder to behold."
+  },
+  {
+    "id": 57,
+    "name": "Muthyala Maduvu (Pearl Valley)",
+    "lat": 12.7303,
+    "lon": 77.6816,
+    "short_text": "A scenic tourist spot with a waterfall that looks like a string of pearls.",
+    "long_text": "Muthyala Maduvu, also known as Pearl Valley, is a beautiful tourist spot near Anekal. It is famous for its waterfall, where water cascades down the rock face, creating the illusion of a string of pearls.",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/15/Muthyala_Maduvu_Waterfalls.jpg/400px-Muthyala_Maduvu_Waterfalls.jpg",
+    "audio_text": "This is Muthyala Maduvu, also called Pearl Valley. It's a lovely valley with a waterfall where the water droplets glisten like pearls as they fall."
+  },
+  {
+    "id": 58,
+    "name": "Infant Jesus Shrine, Viveknagar",
+    "lat": 12.9511,
+    "lon": 77.6180,
+    "short_text": "A famous Roman Catholic shrine known for drawing large crowds of devotees.",
+    "long_text": "The Infant Jesus Shrine in Viveknagar is a popular Roman Catholic church in Bangalore. It is especially famous for its Thursday services, which attract a large number of devotees from all faiths seeking blessings.",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d4/Infant_Jesus_Church_Bangalore.jpg/400px-Infant_Jesus_Church_Bangalore.jpg",
+    "audio_text": "This is the Infant Jesus Shrine, a very popular church in Bangalore. It is believed to be a place of miracles and is visited by thousands of people, especially on Thursdays."
+  },
+  {
+    "id": 59,
+    "name": "Gurudwara Sri Guru Singh Sabha, Ulsoor",
+    "lat": 12.9813,
+    "lon": 77.6253,
+    "short_text": "The largest Sikh shrine in Bangalore, located near Ulsoor Lake.",
+    "long_text": "The Gurudwara Sri Guru Singh Sabha near Ulsoor Lake is the main Sikh shrine in Bangalore. It is a serene place of worship and is known for its community kitchen, or langar, which serves free meals to all visitors.",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8c/Sri_Guru_Singh_Sabha_Gurudwara%2C_Ulsoor.jpg/400px-Sri_Guru_Singh_Sabha_Gurudwara%2C_Ulsoor.jpg",
+    "audio_text": "You are at the Sri Guru Singh Sabha Gurudwara in Ulsoor. This beautiful Sikh temple is a place of peace and offers a free community meal, called langar, to everyone."
+  },
+  {
+    "id": 60,
+    "name": "National Military Memorial Park",
+    "lat": 12.9846,
+    "lon": 77.5852,
+    "short_text": "A memorial dedicated to the soldiers of the Indian Armed Forces.",
+    "long_text": "The National Military Memorial Park is dedicated to the soldiers who have laid down their lives for the nation. It features a massive 78-foot tall monolithic flagpole, one of the tallest in the country, and displays of military equipment.",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/National_Military_Memorial_Bengaluru_1.jpg/400px-National_Military_Memorial_Bengaluru_1.jpg",
+    "audio_text": "This is the National Military Memorial Park, built to honor the brave soldiers of India. The giant flagpole is a key feature of this solemn and proud monument."
+  },
+  {
+    "id": 61,
+    "name": "Lumbini Gardens",
+    "lat": 13.0456,
+    "lon": 77.6094,
+    "short_text": "A water-front leisure park on the banks of Nagawara Lake.",
+    "long_text": "Lumbini Gardens is a public park on the banks of Nagawara Lake. It is a wave pool and kids' amusement park and offers various boating activities, making it a popular family entertainment spot.",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/14/Lumbini_Gardens_-_ panoramio.jpg/400px-Lumbini_Gardens_-_ panoramio.jpg",
+    "audio_text": "You are near Lumbini Gardens, a popular amusement park located on the edge of Nagawara Lake. It's a fun place for families with its wave pool and boating."
+  },
+  {
+    "id": 62,
+    "name": "Bugle Rock Park",
+    "lat": 12.9416,
+    "lon": 77.5721,
+    "short_text": "A park built around a massive rock formation, with a watchtower.",
+    "long_text": "Bugle Rock Park is a small park in Basavanagudi, famous for its central rock formation that is estimated to be about 3,000 million years old. A watchtower built by Kempe Gowda sits atop this rock.",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6f/Bugle_rock.JPG/400px-Bugle_rock.JPG",
+    "audio_text": "This is Bugle Rock Park, named after the massive ancient rock at its center. A watchtower built by Bangalore's founder, Kempe Gowda, stands on top of it."
+  },
+  {
+    "id": 63,
+    "name": "Ranga Shankara",
+    "lat": 12.9113,
+    "lon": 77.5852,
+    "short_text": "One of Bangalore's most famous theatres, dedicated to promoting stage performances.",
+    "long_text": "Ranga Shankara is a world-class theatre in JP Nagar. It was conceptualized by actress Arundathi Nag and is dedicated to showcasing quality theatre at affordable prices, hosting plays almost every day of the year.",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a2/Ranga_Shankara_Theatre_Bangalore.jpg/400px-Ranga_Shankara_Theatre_Bangalore.jpg",
+    "audio_text": "You are at Ranga Shankara, a renowned theatre in Bangalore. It's a wonderful place to watch plays and supports the local and national theatre community."
+  },
+  {
+    "id": 64,
+    "name": "Chowdiah Memorial Hall",
+    "lat": 13.0035,
+    "lon": 77.5750,
+    "short_text": "A concert hall and cultural center uniquely shaped like a giant violin.",
+    "long_text": "Chowdiah Memorial Hall is a prominent cultural center in Bangalore, known for its unique architectural design shaped like a seven-stringed violin in tribute to the violinist Tirumakudalu Chowdiah.",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f6/Chowdiah_Memorial_Hall.jpg/400px-Chowdiah_Memorial_Hall.jpg",
+    "audio_text": "This is Chowdiah Memorial Hall, a famous auditorium. What makes it unique is its shape - it's designed to look like a giant violin!"
+  },
+  {
+    "id": 65,
+    "name": "Venkatappa Art Gallery",
+    "lat": 12.9750,
+    "lon": 77.5980,
+    "short_text": "A major art gallery housing the works of K. Venkatappa and other famous artists.",
+    "long_text": "The Venkatappa Art Gallery, located next to the Government Museum, is one of the city's most important art spaces. It permanently displays the works of the renowned artist K. Venkatappa and showcases other modern artists.",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/Venkatappa_Art_Gallery_01.jpg/400px-Venkatappa_Art_Gallery_01.jpg",
+    "audio_text": "You are at the Venkatappa Art Gallery. It's a key institution for art in the city and holds an impressive collection, including works by the great artist K. Venkatappa."
+  },
+  {
+    "id": 66,
+    "name": "NIMHANS Brain Museum",
+    "lat": 12.9304,
+    "lon": 77.5944,
+    "short_text": "A unique museum displaying a collection of real human brains and other organs.",
+    "long_text": "The NIMHANS Brain Museum is a one-of-a-kind facility where visitors can see and touch real human brains. The museum aims to educate the public about the brain and destigmatize neurological and psychiatric illnesses.",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a9/Nimhans_heritage_museum.jpg/400px-Nimhans_heritage_museum.jpg",
+    "audio_text": "This is the NIMHANS Brain Museum, a very unique place. Here you can actually see and even hold a real human brain, all for the purpose of education."
+  },
+  {
+    "id": 67,
+    "name": "Jamia Masjid, City Market",
+    "lat": 12.9642,
+    "lon": 77.5752,
+    "short_text": "The largest mosque in Bangalore, known for its pristine white marble structure.",
+    "long_text": "The Jamia Masjid, located near City Market, is the largest mosque in Bangalore. It is an impressive five-story structure made of pure white marble from Rajasthan and can accommodate thousands of worshippers.",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7b/Jamia_Masjid_Bangalore_2.jpg/400px-Jamia_Masjid_Bangalore_2.jpg",
+    "audio_text": "You are near Jamia Masjid, the largest mosque in Bangalore. It is a stunning building made of white marble and is an important center for the city's Muslim community."
+  },
+  {
+    "id": 68,
+    "name": "St. Andrew's Church, Cubbon Road",
+    "lat": 12.9818,
+    "lon": 77.6042,
+    "short_text": "A historic Presbyterian church known for its Gothic architecture and tall steeple.",
+    "long_text": "St. Andrew's Church, located on Cubbon Road, is a historic church built in the Gothic architectural style. It is notable for its tall steeple, stained-glass windows, and its Scottish Presbyterian heritage.",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c5/St_Andrews_Church_Bangalore.jpg/400px-St_Andrews_Church_Bangalore.jpg",
+    "audio_text": "This is St. Andrew's Church, a beautiful Gothic-style church. It was originally built for the Scottish community in Bangalore and is known for its impressive steeple."
+  },
+  {
+    "id": 69,
+    "name": "Mayo Hall",
+    "lat": 12.9696,
+    "lon": 77.6083,
+    "short_text": "A historic public building with panoramic views, now housing government offices.",
+    "long_text": "Mayo Hall is a two-story historic building located on M.G. Road. It was built in honor of Lord Mayo, the 4th Viceroy of India. The upper floor offers panoramic views of the city's landmarks.",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/15/Mayo_Hall_Bangalore.jpg/400px-Mayo_Hall_Bangalore.jpg",
+    "audio_text": "You are at Mayo Hall, a historic building from the British era. It was named after a former Viceroy of India and is known for its beautiful architecture."
+  },
+  {
+    "id": 70,
+    "name": "Bangalore Aquarium",
+    "lat": 12.9757,
+    "lon": 77.5950,
+    "short_text": "The second largest aquarium in India, located in Cubbon Park.",
+    "long_text": "The Bangalore Aquarium is the second largest aquarium in India and is located at the entrance of Cubbon Park. It has a variety of ornamental and exotic fish on display in its octagonal building.",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2c/Bangalore_Aquarium.jpg/400px-Bangalore_Aquarium.jpg",
+    "audio_text": "This is the Bangalore Aquarium, located inside Cubbon Park. It's a great place to see a wide variety of beautiful and exotic fish."
+  },
+  {
+    "id": 71,
+    "name": "Chokkanathaswamy Temple, Domlur",
+    "lat": 12.9610,
+    "lon": 77.6385,
+    "short_text": "One of the oldest temples in Bangalore, dating back to the 10th century Chola period.",
+    "long_text": "The Chokkanathaswamy Temple in Domlur is one of the oldest temples in the city, built in the 10th century by the Cholas. It is dedicated to the deity Vishnu and features impressive Tamil inscriptions on its walls.",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/86/Chokkanathaswamy_Temple_at_Domlur.jpg/400px-Chokkanathaswamy_Temple_at_Domlur.jpg",
+    "audio_text": "You are at the Chokkanathaswamy Temple, one of Bangalore's oldest temples. It was built by the Chola dynasty in the 10th century and is a treasure of history."
+  },
+  {
+    "id": 72,
+    "name": "Karnataka Folk Museum",
+    "lat": 12.9463,
+    "lon": 77.5029,
+    "short_text": "A museum showcasing the folk arts, crafts, and culture of Karnataka.",
+    "long_text": "The Karnataka Folk Museum, located on the Bangalore University campus, is a vibrant repository of the state's folk culture. It features a rich collection of folk art, puppets, musical instruments, and traditional costumes.",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b8/Karnataka_Folklore_Museum.JPG/400px-Karnataka_Folklore_Museum.JPG",
+    "audio_text": "This is the Karnataka Folk Museum. It's a wonderful place to explore the rich and diverse folk traditions, art, and culture of the state of Karnataka."
+  },
+  {
+    "id": 73,
+    "name": "Hesaraghatta Lake",
+    "lat": 13.1417,
+    "lon": 77.4875,
+    "short_text": "A man-made freshwater lake and popular spot for birdwatching.",
+    "long_text": "Hesaraghatta Lake is a man-made reservoir created in 1894 to meet the city's water needs. Today, it is a dry lakebed for much of the year but remains an important grassland habitat and a prime location for birdwatching.",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/Hesaraghatta_lake_view.JPG/400px-Hesaraghatta_lake_view.JPG",
+    "audio_text": "This is Hesaraghatta Lake, a large man-made lakebed. Though often dry, it is a very important habitat for grasslands and a fantastic place to spot birds."
+  },
+  {
+    "id": 74,
+    "name": "Janapada Loka",
+    "lat": 12.7208,
+    "lon": 77.2831,
+    "short_text": "A folk arts museum that aims to preserve and promote Karnataka's rural culture.",
+    "long_text": "Janapada Loka, meaning 'Folk World', is an institution dedicated to preserving and promoting the folk culture of Karnataka. Located near Ramanagara, it features a folk museum, an open-air theatre, and exhibits of traditional village life.",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5f/Janapada_Loka.jpg/400px-Janapada_Loka.jpg",
+    "audio_text": "This is Janapada Loka, a 'Folk World' dedicated to Karnataka's rural traditions. It's a great place to experience the state's authentic folk art and culture."
+  }
+]
