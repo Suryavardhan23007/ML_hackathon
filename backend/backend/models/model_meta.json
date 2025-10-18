@@ -1,0 +1,10 @@
+{
+  "feats": [
+    "avg_audio_play_ratio",
+    "avg_scroll_depth",
+    "avg_time_on_card",
+    "sum_image_views",
+    "num_pois"
+  ],
+  "gmm_components": 2
+}
