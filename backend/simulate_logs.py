@@ -75,4 +75,4 @@ def main(num_sessions=20):
 
 if __name__ == '__main__':
     # default add 50 sessions; change arg to main(...) to alter
-    main(num_sessions=50)
+    main(num_sessions=1500)
