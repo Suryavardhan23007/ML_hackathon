@@ -1,0 +1,79 @@
+============================================================
+  HERITAGE TOUR — ML HACKATHON (Group 17)
+  Quick Command Reference
+============================================================
+
+------------------------------------------------------------
+STEP 1 — BACKEND SETUP (first time only)
+------------------------------------------------------------
+cd backend
+python -m venv venv
+source venv/bin/activate          # macOS/Linux
+# venv\Scripts\activate           # Windows
+pip install -r requirements.txt
+
+
+------------------------------------------------------------
+STEP 2 — START BACKEND SERVER
+------------------------------------------------------------
+cd backend
+source venv/bin/activate
+python main.py
+# Server runs at: http://localhost:8000
+
+
+------------------------------------------------------------
+STEP 3 — START FRONTEND (separate terminal)
+------------------------------------------------------------
+cd frontend
+npm install                        # first time only
+npm run dev
+# App runs at: http://localhost:5173
+
+
+------------------------------------------------------------
+STEP 4 — GENERATE SYNTHETIC LOGS (optional, for training)
+------------------------------------------------------------
+cd backend
+source venv/bin/activate
+python simulate_logs.py
+# Adds 1500 simulated sessions to backend/logs/events.log
+
+
+------------------------------------------------------------
+STEP 5 — TRAIN ML MODELS
+------------------------------------------------------------
+cd backend
+source venv/bin/activate
+python train_from_logs.py
+# Trains GMM + Random Forest
+# Saves models to: backend/models/
+
+
+------------------------------------------------------------
+STEP 6 — VIEW METRICS (CLI)
+------------------------------------------------------------
+cd backend
+source venv/bin/activate
+python view_metrics.py
+
+
+------------------------------------------------------------
+API TESTING (curl)
+------------------------------------------------------------
+
+# Predict user profile:
+curl -X POST http://localhost:8000/api/predict_profile \
+  -H "Content-Type: application/json" \
+  -d '{"avg_audio_play_ratio":0.6,"avg_scroll_depth":0.2,"avg_time_on_card":45,"sum_image_views":1,"num_pois":3}'
+
+# Fetch admin metrics:
+curl http://localhost:8000/api/admin/metrics | jq
+
+# List all sessions:
+curl http://localhost:8000/api/admin/sessions | jq
+
+# Fetch POIs (limit 5):
+curl http://localhost:8000/api/pois?n=5 | jq
+
+============================================================
